@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi there, I'm Vidushi (aka vidzz07)
 
-<!--
-**vidzz07/vidzz07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Student in Artificial Intelligence & Machine Learning  
+📜 Completed 15+ Global Certifications – IBM, University of Helsinki, freeCodeCamp  
+🧠 Skills: Python | Machine Learning | Prompt Engineering | NLP | GANs | Web Development  
+🔍 Currently open to internships in AI, ML, and Data Science
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Tech Stack
+- **Languages**: Python, HTML, CSS, JavaScript  
+- **Libraries**: NumPy, pandas, scikit-learn, TensorFlow, Matplotlib  
+- **Tools**: Git, GitHub, Jupyter Notebook, IBM Watson Studio, ChatGPT
+
+---
+
+## 🚀 Featured Projects
+
+### 🎯 Sentiment Analyzer  
+> A Python + NLP model that classifies sentiment in movie reviews  
+
+### 🎨 GAN Image Generator  
+> Built using TensorFlow GANs to generate synthetic face images  
+
+### 💼 Personal Portfolio Website  
+> Responsive website built with HTML/CSS & hosted via GitHub Pages  
+
+
+---
+
+## 📫 Let's Connect! 
+- GitHub: [github.com/vidzz07](https://github.com/vidzz07)  
+- Email: your.email@example.com
+
+---
+
+*Learning early. Building smart. Growing fast.* 🚀
