@@ -40,6 +40,36 @@
 
 ---
 
+### 📊 GitHub Stats
+
+![Vidushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vidzz07&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vidzz07&layout=compact&theme=radical)
+
+---
+
+### 🎯 Goals & Currently Learning
+
+#### 🧠 Currently Learning:
+- GANs, CNNs & Deep Learning Projects
+- JavaScript DOM + Web Animations
+- GitHub Workflows & Pages Hosting
+
+#### 🗓️ 2025 Goals:
+- 🔍 Land an internship at Google, Microsoft, or IBM
+- 🛠️ Launch 2 open-source AI projects
+- ✍️ Start a blog for beginners in AI/ML
+
+---
+
+### 🎈 Fun Facts
+
+- 🧩 Built my first GAN project at 19!
+- 📚 Learning new AI tools every month
+- 🌟 Dream: Make AI more ethical & inclusive
+- 💜 Favorite Tool: Prompt Engineering & Watson Studio
+
+---
+
 ### 📫 Let's Connect!
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vidzz07)
