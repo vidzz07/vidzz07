@@ -1,3 +1,4 @@
+![vidushi-banner](https://github.com/user-attachments/assets/d0aed935-8836-4ad0-a53f-76fbe07cb2ef)
 ![Banner](vidushi-banner.png)
 # 👋 Hi, I'm Vidushi (aka @vidzz07)
 
@@ -52,7 +53,6 @@ Responsive website showcasing my certifications and projects.
 ---
 
 
----![vidushi-banner](https://github.com/user-attachments/assets/aabc0d15-ec2e-4657-8e08-948ab11025e2)
 
 
 
