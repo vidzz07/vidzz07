@@ -54,8 +54,8 @@
 - JavaScript DOM + Web Animations
 - GitHub Workflows & Pages Hosting
 
-#### 🗓️ 2025 Goals:
-- 🔍 Land an internship at Google, Microsoft, or IBM
+#### 🗓️ 2027 Goals:
+- 🔍 Land an internship at Apple, Google, Microsoft, or IBM
 - 🛠️ Launch 2 open-source AI projects
 - ✍️ Start a blog for beginners in AI/ML
 
@@ -63,7 +63,7 @@
 
 ### 🎈 Fun Facts
 
-- 🧩 Built my first GAN project at 19!
+- 🧩 Built my first GAN project at 18!
 - 📚 Learning new AI tools every month
 - 🌟 Dream: Make AI more ethical & inclusive
 - 💜 Favorite Tool: Prompt Engineering & Watson Studio
