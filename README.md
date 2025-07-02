@@ -1,4 +1,4 @@
-
+![Banner](vidushi-banner.png)
 # 👋 Hi, I'm Vidushi (aka @vidzz07)
 
 🎓 BTech AI/ML Student | 15+ Global Certifications  
@@ -52,7 +52,9 @@ Responsive website showcasing my certifications and projects.
 ---
 
 
----
+---![vidushi-banner](https://github.com/user-attachments/assets/aabc0d15-ec2e-4657-8e08-948ab11025e2)
+
+
 
 ### 🔗 Let's Connect!
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/vidzz07)
