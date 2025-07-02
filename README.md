@@ -1,9 +1,8 @@
-
 # 👋 Hi, I'm Vidushi (aka @vidzz07)
 
-🎓 BTech AI/ML Student | 15+ Global Certifications  
+🎓 BTech in AI & ML | 15+ Global Certifications  
 🧠 Python • Machine Learning • Prompt Engineering • GANs • Web Dev  
-💼 Actively seeking internship opportunities in AI, ML, and Data Science
+💼 Actively seeking **internship opportunities** in AI, ML, and Data Science
 
 ---
 
@@ -18,11 +17,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![IBM Watson Studio](https://img.shields.io/badge/IBM%20Watson%20Studio-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Watson Studio](https://img.shields.io/badge/IBM%20Watson%20Studio-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
 ---
 
-### 📚 Certifications
+### 📜 Certifications
 ![IBM](https://img.shields.io/badge/IBM%20Certified-blue?style=for-the-badge&logo=ibm&logoColor=white)
 ![University of Helsinki](https://img.shields.io/badge/Elements%20of%20AI-Helsinki-green?style=for-the-badge)
 ![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Certified-brightgreen?style=for-the-badge&logo=freecodecamp)
@@ -33,31 +32,19 @@
 
 ### 🚀 Featured Projects
 
-#### 🎯 Sentiment Analyzer  
-A Python + NLP model that classifies sentiment in text (movie reviews).  
-🔧 *Tech:* scikit-learn, pandas, Flask  
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🎯 [**Sentiment Analyzer**](https://github.com/vidzz07/sentiment-analyzer) | NLP app that classifies sentiment using scikit-learn & Flask | `Python`, `NLP`, `scikit-learn`, `Flask` |
+| 🧠 [**GAN Image Generator**](https://github.com/vidzz07/gan-image-generator) | Uses GANs to generate synthetic handwritten images | `TensorFlow`, `Keras`, `Deep Learning` |
+| 🌐 [**Personal Portfolio Website**](https://vidzz07.github.io/portfolio-website) | Live animated website with projects, resume, and dark mode | `HTML`, `CSS`, `JavaScript`, `GitHub Pages` |
 
 ---
 
-#### 🎨 GAN Image Generator  
-Built using TensorFlow GANs to generate synthetic face images.  
-🔧 *Tech:* TensorFlow, Keras  
+### 📫 Let's Connect!
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vidzz07)
+
 
 ---
 
-#### 💼 Personal Portfolio Website  
-Responsive website showcasing my certifications and projects.  
-🔧 *Tech:* HTML, CSS, GitHub Pages  
-
----
-
-
-
-
-
-### 🔗 Let's Connect!
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/vidzz07)
-
----
-
-*“Learning early. Building smart. Growing fast.”* 🚀
+🧠 *“Learning early. Building smart. Growing fast.”* 🚀
