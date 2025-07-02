@@ -1,5 +1,4 @@
-![vidushi-banner](https://github.com/user-attachments/assets/d0aed935-8836-4ad0-a53f-76fbe07cb2ef)
-![Banner](vidushi-banner.png)
+
 # 👋 Hi, I'm Vidushi (aka @vidzz07)
 
 🎓 BTech AI/ML Student | 15+ Global Certifications  
