@@ -34,8 +34,9 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| 🎵 [**Spotify Clone**](https://vidzz07.github.io/spotify-clone) | Animated Spotify frontend clone with hover effects, dark theme & card sections | `HTML`, `CSS`, `GitHub Pages` |
 | 🍿 [**Netflix Clone**](https://vidzz07.github.io/Netflix-clone) | Responsive Netflix homepage clone with trending cards and hover effects | `HTML`, `CSS`, `GitHub Pages` |
-| 🎯 [**Sentiment Analyzer**](https://github.com/vidzz07/sentiment-analyzer) | NLP app that classifies sentiment using scikit-learn & Flask | `Python`, `NLP`, `scikit-learn`, `Flask` |
+| 🎯 [**Sentiment Analyser**](https://github.com/vidzz07/sentiment-analyzer) | NLP app that classifies sentiment using scikit-learn & Flask | `Python`, `NLP`, `scikit-learn`, `Flask` |
 | 🧠 [**GAN Image Generator**](https://github.com/vidzz07/gan-image-generator) | Uses GANs to generate synthetic handwritten images | `TensorFlow`, `Keras`, `Deep Learning` |
 | 🌐 [**Personal Portfolio Website**](https://vidzz07.github.io/portfolio-website) | Live animated website with projects, resume, and dark mode | `HTML`, `CSS`, `JavaScript`, `GitHub Pages` |
 
